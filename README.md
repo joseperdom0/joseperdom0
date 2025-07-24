@@ -71,7 +71,7 @@ I'm passionate about bridging technical skills with strategic impact.
 
 ---
 
-*Proud defender of the digital frontier.*
+
 
 <!--
 **joseperdom0/joseperdom0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
