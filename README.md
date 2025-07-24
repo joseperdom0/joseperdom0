@@ -2,7 +2,7 @@
 <h1 align="center">Jose P. | Cybersecurity Specialist</h1>
 <p align="center">
   <em>Offensive Security | Automation | Threat Detection</em><br>
-  <a href="https://yourportfolio.com">🌐 Portfolio</a> • 
+  <a href="https://github.com/joseperdom0/">🌐 Portfolio</a> • 
   <a href="mailto:youremail@example.com">📬 Email</a> • 
   <a href="https://www.linkedin.com/in/yourprofile">🔗 LinkedIn</a>
 </p>
@@ -70,7 +70,7 @@ I'm passionate about bridging technical skills with strategic impact.
 </p>
 
 ---
-### 🧠 VulnHub Machines Walkthroughs
+### 🧠 VulnHub Machines [SOLVED]
 
 | Machine Name | Difficulty | Skills Demonstrated | Write-up |
 |--------------|------------|----------------------|----------|
