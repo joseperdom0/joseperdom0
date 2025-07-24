@@ -10,15 +10,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a cybersecurity professional with over 6+ years of hands-on experience across:
 
-- 🔍 **Threat Detection & Incident Response** using tools like Splunk, Suricata, and ELK
-- 💣 **Offensive Security & Exploit Development** with OSCP-level skills
-- 🛠️ **Reverse Engineering** with Ghidra, Radare2, Pwntools
-- ⚙️ **Automation** for security and data ops using Python, Alteryx, PowerShell
-- 🧠 Active CTF player and lifelong learner of digital defense and ethical hacking
+-  **Threat Detection & Incident Response** using tools like Splunk, Suricata, and ELK
+-  **Offensive Security & Exploit Development** with OSCP-level skills
+-  **Reverse Engineering** with Ghidra, Radare2, Pwntools
+-  **Automation** for security and data ops using Python, Alteryx, PowerShell
+-  Active CTF player and lifelong learner of digital defense and ethical hacking
 
 I'm passionate about bridging technical skills with strategic impact.
 
@@ -31,20 +31,21 @@ I'm passionate about bridging technical skills with strategic impact.
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=ghost" /></a>
 </p>
+
 ---
 
-### 🚨 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [🛡️ SOC-Simulator](https://github.com/yourname/soc-simulator) | Build your own SOC environment using Suricata, Zeek, Splunk, and ELK. |
-| [💣 CVE-Exploit-Lab](https://github.com/yourname/cve-lab) | Proof-of-concept exploit repo with vulnerability writeups and buffer overflows. |
-| [📦 Packet Inspector](https://github.com/yourname/packet-inspector) | CLI tool in Python to parse and analyze `.pcap` files for malware and anomalies. |
-| [🧠 OSCP-Notes](https://github.com/yourname/oscp-notes) | My curated notes and tactics used during OSCP preparation. |
+| [ SOC-Simulator](https://github.com/yourname/soc-simulator) | Build your own SOC environment using Suricata, Zeek, Splunk, and ELK. |
+| [ CVE-Exploit-Lab](https://github.com/yourname/cve-lab) | Proof-of-concept exploit repo with vulnerability writeups and buffer overflows. |
+| [ Packet Inspector](https://github.com/yourname/packet-inspector) | CLI tool in Python to parse and analyze `.pcap` files for malware and anomalies. |
+| [ OSCP-Notes](https://github.com/yourname/oscp-notes) | My curated notes and tactics used during OSCP preparation. |
 
 ---
 
-### ✍️ Latest Write-Ups
+###  Latest Write-Ups
 
 - [Bypassing JWT Authentication in XYZ App](https://dev.to/yourname/...)
 - [Exploit Dev: Linux Buffer Overflow Walkthrough](https://medium.com/...)
@@ -52,7 +53,7 @@ I'm passionate about bridging technical skills with strategic impact.
 
 ---
 
-### 🎓 Certifications
+###  Certifications
 
 ![OSCP](https://img.shields.io/badge/OSCP-Passed-informational?logo=offensive-security)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-Certified-blue?logo=comptia)
@@ -81,7 +82,7 @@ I'm passionate about bridging technical skills with strategic impact.
 | [Brainpan](https://www.vulnhub.com/entry/brainpan-1,51/) | 🔴 Hard | Windows BOF Exploit, Exploit Dev, Reverse Engineering | [Read](https://yourblog.com/brainpan) |
 
 
-### 🎓 Hack The Box Academy Modules
+###  Hack The Box Academy Modules
 
 | Module | Category | Difficulty | Skills Gained | Notes |
 |--------|----------|------------|----------------|-------|
