@@ -56,7 +56,7 @@ I'm passionate about bridging technical skills with strategic impact.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joseperdom0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joseperdom0&theme=tokyonight" alt="GitHub Streak" />
+  
 </p>
 
 ---
@@ -79,6 +79,17 @@ I'm passionate about bridging technical skills with strategic impact.
 | [DC-1](https://www.vulnhub.com/entry/dc-1-1,292/) | 🟢 Easy | Web Exploits, Local File Inclusion (LFI), Root Escalation | [Read](https://yourblog.com/dc-1) |
 | [Brainpan](https://www.vulnhub.com/entry/brainpan-1,51/) | 🔴 Hard | Windows BOF Exploit, Exploit Dev, Reverse Engineering | [Read](https://yourblog.com/brainpan) |
 
+
+### 🎓 Hack The Box Academy Modules
+
+| Module | Category | Difficulty | Skills Gained | Notes |
+|--------|----------|------------|----------------|-------|
+| [Linux Fundamentals](https://academy.hackthebox.com/module/1) | Linux | 🟢 Easy | Shell basics, users, permissions, sudo, cron | [Notes](https://yourrepo.com/linux-fundamentals.md) |
+| [Windows Fundamentals](https://academy.hackthebox.com/module/7) | Windows | 🟢 Easy | Windows CLI, services, file system, task scheduler | [Notes](https://yourrepo.com/windows-fundamentals.md) |
+| [Networking Fundamentals](https://academy.hackthebox.com/module/9) | Networking | 🟢 Easy | TCP/IP, ports, traceroute, ICMP, packet crafting | [Notes](https://yourrepo.com/networking.md) |
+| [Introduction to Pentesting](https://academy.hackthebox.com/module/22) | Pentesting | 🟡 Medium | Scanning, enumeration, exploitation phases | [Notes](https://yourrepo.com/intro-to-pentesting.md) |
+| [Web Requests](https://academy.hackthebox.com/module/54) | Web | 🟡 Medium | HTTP methods, headers, cookies, fuzzing | [Notes](https://yourrepo.com/web-requests.md) |
+| [Active Directory Enumeration](https://academy.hackthebox.com/module/55) | Active Directory | 🔴 Hard | LDAP, Kerberos, SMB enumeration, BloodHound | [Notes](https://yourrepo.com/ad-enum.md) |
 
 
 
