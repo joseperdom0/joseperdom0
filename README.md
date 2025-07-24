@@ -70,6 +70,15 @@ I'm passionate about bridging technical skills with strategic impact.
 </p>
 
 ---
+### 🧠 VulnHub Machines Walkthroughs
+
+| Machine Name | Difficulty | Skills Demonstrated | Write-up |
+|--------------|------------|----------------------|----------|
+| [Basic Pentesting 1](https://www.vulnhub.com/entry/basic-pentesting-1,216/) | 🟢 Easy | Enumeration, SSH Bruteforce, Privilege Escalation | [Read](https://yourblog.com/basic-pentesting-1) |
+| [Mr. Robot](https://www.vulnhub.com/entry/mr-robot-1,151/) | 🟡 Medium | WordPress Exploit, Buffer Overflow, Enumeration | [Read](https://yourblog.com/mr-robot) |
+| [DC-1](https://www.vulnhub.com/entry/dc-1-1,292/) | 🟢 Easy | Web Exploits, Local File Inclusion (LFI), Root Escalation | [Read](https://yourblog.com/dc-1) |
+| [Brainpan](https://www.vulnhub.com/entry/brainpan-1,51/) | 🔴 Hard | Windows BOF Exploit, Exploit Dev, Reverse Engineering | [Read](https://yourblog.com/brainpan) |
+
 
 
 
