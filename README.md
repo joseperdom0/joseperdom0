@@ -24,6 +24,15 @@ I'm passionate about bridging technical skills with strategic impact.
 
 ---
 
+### 🌐 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=ghost" /></a>
+</p>
+---
+
 ### 🚨 Featured Projects
 
 | Project | Description |
@@ -61,15 +70,7 @@ I'm passionate about bridging technical skills with strategic impact.
 
 ---
 
-### 🌐 Let’s Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=ghost" /></a>
-</p>
-
----
 ### 🧠 VulnHub Machines [SOLVED]
 
 | Machine Name | Difficulty | Skills Demonstrated | Write-up |
