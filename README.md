@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a cybersecurity professional with over 3 years of hands-on experience across:
+I'm a cybersecurity professional with over 6+ years of hands-on experience across:
 
 - 🔍 **Threat Detection & Incident Response** using tools like Splunk, Suricata, and ELK
 - 💣 **Offensive Security & Exploit Development** with OSCP-level skills
