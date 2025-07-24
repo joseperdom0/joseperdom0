@@ -1,4 +1,11 @@
 ## Hi there 👋
+<h1 align="center">👾 Jose P. | Cybersecurity Specialist</h1>
+<p align="center">
+  <em>Offensive Security | Automation | Threat Detection</em><br>
+  <a href="https://yourportfolio.com">🌐 Portfolio</a> • 
+  <a href="mailto:youremail@example.com">📬 Email</a> • 
+  <a href="https://www.linkedin.com/in/yourprofile">🔗 LinkedIn</a>
+</p>
 
 <!--
 **joseperdom0/joseperdom0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
